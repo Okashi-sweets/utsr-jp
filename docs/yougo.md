@@ -1,5 +1,5 @@
 # 用語集
-
+RTAの技からミーム、走者だったり。
 ## A
 
 ### Alphys Elevator Skip
@@ -73,10 +73,12 @@ EEBPでの使用が主でGPCもこれにより可能といわれている。
 ~~名前が最低~~
 
 ### Disney Castle Room
-
+ウォーターフェルにあるニューホームの城が見える部屋。wallhumpingをすると移動速度が2倍になる。
 
 ### Dog Skip
-
+グレータードッグ戦で犬が出てくる攻撃を引くこと。<br>
+AYCやLow%では重要度が高いが運ゲー。
+* Dogi Skipと混同しないでください。
 
 ### Dogi Skip
 
@@ -89,8 +91,8 @@ DeltaRuneの略称。
 
 ## E
 
-### EPC
-
+### EBP
+Early Burnt Panの略。
 
 ### EEBP
 
@@ -167,5 +169,18 @@ Essay Skip SkipとEndogeny Skip Skipの略。
 
 ## U
 
+### UT
+Undertaleの略称。
 
 ## W
+
+### Wallhumping
+上と下を同時に押すことによってその場で上下に1フレームおきに移動する挙動のこと。日本だと「Gステップ」の呼び方が一般的。<br>
+左右に動かずにエンカ歩数を稼ぐほか、スイッチを速く調べたり特定の場面(DisneyCastle Roomなど)では移動速度を上げられる。
+* ほとんどのコントローラーはキーコンなしにこれを行えないが、Joyconはなぜか素の状態でも可能。
+
+### WR
+World Recordの略。世界記録のこと。
+
+### WW
+Wrong Warpsの略。
