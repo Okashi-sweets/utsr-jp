@@ -17,7 +17,7 @@ Undertaleでは存在しないカテゴリー。Any%に相当するのはNeutral
 All Skippable Textboxesの略。普通ではスキップできないテキストもすべてスキップ可能にしたmodを適用して走るカテゴリー。
 
 ### AYC
-All Yellow Ceaditsの略。TPEのエンディングですべてのモンスターの説明文を黄色にしてクリアするカテゴリー。
+All Yellow Creditsの略。TPEのエンディングですべてのモンスターの説明文を黄色にしてクリアするカテゴリー。
 かつてはCEのカテゴリーだったが、現在はメインのその他カテゴリーに移動されている。
 
 ## B
@@ -77,11 +77,13 @@ EEBPでの使用が主でGPCもこれにより可能といわれている。
 
 ### Dog Skip
 グレータードッグ戦で犬が出てくる攻撃を引くこと。<br>
-AYCやLow%では重要度が高いが運ゲー。
+ぼうきれを使えないAYCやLow%では重要度が高いが運ゲー。
 * Dogi Skipと混同しないでください。
 
 ### Dogi Skip
-
+イヌッス、イヌッサ戦をスキップできる技。イベント開始マスに入ると同時にエンカウントが発生すると戦闘終了後にイベントを開始しつつ移動が可能になる。<br>
+* 長い間運ゲー技であった経緯がある。これはエンカウントの歩数が30通りあり、仮にイベント開始マスまでの歩数を固定しても成功率が1/30であるため。<br>
+* 2022年にcolinator27氏によって雪の崩れ方からエンカ歩数を特定するツールが開発されてからは、安定性のある技になった。
 
 ### Door Warp
 
@@ -92,16 +94,19 @@ DeltaRuneの略称。
 ## E
 
 ### EBP
-Early Burnt Panの略。
+Early Burnt Panの略。<br>
+ホットランドのけんきゅうじょにあるドッグフードを利用してchoicer overflowを起こし、こげたフライパンを早期に入手するバグ技。普通に取るより約15秒ほど速い。
 
 ### EEBP
-
+Early Early Burnt Panの略。<br>
+Persistence Glitch、Bagel Storage、Choicer Overflow、Choicer Storageを駆使してぷんすかマネキンの部屋でこげたフライパンを入手するバグ技。Dog Endingで特に有効。ただし本ゲームでトップクラスの難易度を誇る。
 
 ### EEG
-
+Early Empty Gunの略。ゲーム開始時からからっぽのピストルを持ったセーブデータでプレイするCEのカテゴリー。
 
 ### EMML
-
+Early Max Murder Levelの略。最初からGenocideの進行フラグが全て立っているセーブデータでプレイするCEのカテゴリー。<br>
+Genocide雑魚狩り抜きみたいなカテゴリー。
 
 ### EPC
 
@@ -123,9 +128,14 @@ Essay Skip SkipとEndogeny Skip Skipの略。
 
 
 ## G
-
+### GMS
+Game Maker Studioの略。Undertaleの開発に使われたソフト。
+* SwitchとXboxは諸事情によりGMS2で開発されている。
 
 ## H
+### Hands
+トリエル戦で手を出す攻撃のこと。手に当たるだけで相手のターンが終了するためこの攻撃を何回引けるかがタイムに直結する。
+* これが1回だったときにTwitchのグローバルスタンプである*OneHand*を打つミームがある。
 
 ### hotfinenticute
 メタトンEX戦の作文において最高得点(360点)を取得できる文字列。誉め言葉4つで構成される。(hot,fine,entic,cute)<br>
@@ -141,7 +151,21 @@ Essay Skip SkipとEndogeny Skip Skipの略。
 
 
 ## L
+### Left gang/Right gang
+フォトショップフラウィ戦の紫のタマシイフェーズにて、こうどうコマンドが左右どちらから出現するかを予想する際に使われるネタ。要は左派/右派である。<br>
+* 2021年にColinatoe27氏の調査により右から出現したほうがコマンドを押せるようになるのが2フレーム速いことが判明した。これにより理論上は右を選んだ方がよいということになる。~~RiJで外したやつもいたけど~~
 
+### LBS
+Lemon Bread Skipの略。<br>
+Switchでは設定ミスによりLEMON PANが擬態しているセーブポイントの当たり判定が小さく、上側を抜けて戦闘をスキップできる。<br>
+Xboxでは戦闘でゲームオーバーになっても勝利した扱いになる。
+TAS技ではあるものの、Persistence Glitchを用いることでXboxと同じようにできる。
+
+### LEBP
+
+### LBS
+Long Elevetor Skipの略。<br>
+Switchでは設定ミスによりコアとニューホームをつなぐエレベーターでボタンを押さずとも次のエリアに移動できてしまう。20秒ほど短縮になる。
 
 ## M
 
@@ -165,7 +189,13 @@ Essay Skip SkipとEndogeny Skip Skipの略。
 
 
 ## T
+### Toby Code
+出来の悪いゲーム内コードを指すネタ。
 
+### TPE
+True Pacifist Endingの略。
+* TPEGはTrue Pacifist Ending Glitchlessのこと。
+* Pacifist Endingはモンスターを1体も倒さなかったNeutral Endingのことです。混同しないでください。
 
 ## U
 
