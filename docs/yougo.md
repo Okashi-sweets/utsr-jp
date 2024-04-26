@@ -57,3 +57,113 @@ Category Extensionsの略。EPCやTrue 100%などのマイナーカテゴリー�
 もしくはBlconを表示しながら移動する技の名前。GenocideでもLow%でも使用可能。
 
 ### Choicer Storage
+Persistence Glitchを利用したバグ技。persistent状態になった部屋を選択肢を表示しながら出ることで、その部屋で選択肢が開き続ける。<br>
+EEBPでの使用が主でGPCもこれにより可能といわれている。
+
+### Core Skip
+
+## D
+
+### Debug Mode
+
+
+### Dick Cheese
+~~名前が最低~~
+
+### Disney Castle Room
+
+
+### Dog Skip
+
+
+### Dogi Skip
+
+
+### Door Warp
+
+
+### DR
+DeltaRuneの略称。
+
+## E
+
+### EPC
+
+
+### EEBP
+
+
+### EEG
+
+
+### EMML
+
+
+### EPC
+
+
+### Eric%
+
+
+### ERK
+
+
+### ESS
+Essay Skip SkipとEndogeny Skip Skipの略。
+#### Essay Skip Skip
+
+#### Endogeny Skip Skip
+
+
+## F
+
+
+## G
+
+
+## H
+
+### hotfinenticute
+メタトンEX戦の作文において最高得点(360点)を取得できる文字列。誉め言葉4つで構成される。(hot,fine,entic,cute)<br>
+* 日本語の場合は「ゆうびなんすてきれい」。(ゆうび、びなん、すてき、きれい)
+
+## I
+
+
+## J
+
+
+## K
+
+
+## L
+
+
+## M
+
+
+## N
+
+
+## O
+
+
+## P
+
+
+## Q
+
+
+## R
+
+
+## S
+
+
+## T
+
+
+## U
+
+
+## W
